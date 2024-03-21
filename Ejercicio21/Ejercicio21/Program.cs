@@ -10,7 +10,7 @@ namespace Ejercicio21
 
             while (continuar)
             {
-                Console.WriteLine("Ingrese el peso del paciente (en kilos):");
+                Console.WriteLine("Ingrese el peso del paciente (en  kilos):");
                 double peso = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("Ingrese la altura del paciente ( metros):");
