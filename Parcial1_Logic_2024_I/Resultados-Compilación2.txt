@@ -1,0 +1,8 @@
+﻿Compilación iniciada a las 9:33 p. m....
+1>------ Operación Compilar iniciada: Proyecto: Parcial1_Logic_2024_Punto2, configuración: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\8.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: La plataforma de destino "netcoreapp3.1" no tiene soporte técnico y no recibirá actualizaciones de seguridad en el futuro. Para obtener más información sobre la directiva de soporte técnico, consulte https://aka.ms/dotnet-core-support.
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>Parcial1_Logic_2024_Punto2 -> C:\LWV-logic_2024_1\Parcial1_Logic_2024_Punto2\Parcial1_Logic_2024_Punto2\bin\Debug\netcoreapp3.1\Parcial1_Logic_2024_Punto2.dll
+1>Compilación del proyecto "Parcial1_Logic_2024_Punto2.csproj" terminada.
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 9:33 p. m. y tardó 04,962 segundos ==========
